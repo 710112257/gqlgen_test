@@ -3,3 +3,13 @@ type Article {
   id: Int!
   text: String!
 }
+type People {
+  id: Int!
+  Name: String!
+}
+type Query {
+  article: Article!
+  people: People!
+  hello: String!
+  sayHello(name:String!): String!
+}

@@ -1,4 +1,4 @@
-module gqlgen_test
+module github.com/710112257/gqlgen_test
 
 go 1.16
 
