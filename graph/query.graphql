@@ -1,0 +1,6 @@
+
+type Query {
+  article: Article!
+  hello: String!
+  sayHello(name:String!): String!
+}
