@@ -15,4 +15,6 @@ resolver:
   filename: graphql/resolver.go
   type: Resolver
 struct_tag: json
+autobind:
+  - github.com/710112257/gqlgen_test/model
 models:
