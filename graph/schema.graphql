@@ -6,6 +6,7 @@ type Article {
 type People {
   id: Int!
   Name: String!
+  Age: String!
 }
 type Query {
   article: Article!
