@@ -1,7 +1,7 @@
 package main
 
 import (
-	"gqlgen_test/graphql"
+	"github.com/710112257/gqlgen_test/graphql"
 	"log"
 	"net/http"
 	"os"
